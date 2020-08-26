@@ -7,7 +7,7 @@ Hello, World
 ------------
 
 You'll need a django project.  If you don't have one handy, you can make an empty one following
-the first steps of the `django tutorial <https://docs.djangoproject.com/en/1.6/>`_.  Afterwards,
+the first steps of the `django tutorial <https://docs.djangoproject.com/en/3.1/>`_.  Afterwards,
 edit <yourproject>/settings.py to add "swingtix.bookkeeper" to INSTALLED_APPS and run:: 
 
     $ python manage.py syncdb 
